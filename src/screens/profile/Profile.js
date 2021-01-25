@@ -46,7 +46,7 @@ class Profile extends Component {
     super(props)
     this.state = {
       profileData: {
-        username: 'itsvipinupgrad',
+        username: 'jitheshnanat',
         postCount: 0, 
         followerCount: 10,
         followingCount: 20,
